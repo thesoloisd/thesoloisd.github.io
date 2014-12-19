@@ -1,3 +1,7 @@
+html {
+  background-color: black;
+}
+
 body {
   margin: 0;
 }
@@ -8,8 +12,4 @@ img {
   height: auto;
   max-width: 900px;
   margin: 0 auto;
-}
-
-html {
-  background-color: black;
 }
