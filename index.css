@@ -12,4 +12,5 @@ img {
 
 html {
   background-color: black;
+  overflow: hidden;
 }
